@@ -102,3 +102,6 @@
 
 👉 **Practice:** Add a `.gitignore` to your repo, commit it, and test ignored files.
 
+---
+
+### Focus on Mosh 
