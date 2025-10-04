@@ -105,3 +105,6 @@
 ---
 
 ### Focus on Mosh 
+
+Dab: Dab <Int> ? -> Int 
+Dab 10: Println Dab <Int>
